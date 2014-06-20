@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  vincenzo.petronio'AT'gmail.com -- dev -- google.com/+VincenzoPetronio
+
+# THANKS
+
+  <name>
+  
+# SITE
+
+	Last update: 2014/06/20
+	Doctype: HTML5
+	Software: WebStorm 8, Notepad++
+  
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
+  Google Web Starter Kit, Node, Gulp, Sass, Git, Ruby
